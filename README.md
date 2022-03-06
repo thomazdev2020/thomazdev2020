@@ -1,4 +1,4 @@
-### Olâ sou Thomaz Santos 👋
+### Olâ sou Thomaz Santos 👋 DEV Front-End
 
 <!--
 **thomazdev2020/thomazdev2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
