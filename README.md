@@ -1,10 +1,12 @@
 ### Olâ sou Thomaz Santos 👋 DEV Front-End
 
 <a href="https://github.com/thomazdev2020" alt="github" target="_blank">
-
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
-
 </a>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=<USERNAME>&layout
 
 
 
