@@ -8,6 +8,8 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=<USERNAME>&layout
 
+&lt;code&gt;
+&lt;img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"&gt;&lt;/code&gt;
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thomazdev2020)
