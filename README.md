@@ -1,7 +1,11 @@
 ### Olâ sou Thomaz Santos 👋 DEV Front-End
 
+<a href="https://github.com/thomazdev2020" alt="github" target="_blank">
 
-<img src="https://avatars.githubusercontent.com/u/81429672?s=400&u=e3420ee57f8d37e437d27df6ced3a2ed9e455653&v=4">
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+
+</a>
+
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thomazdev2020)
