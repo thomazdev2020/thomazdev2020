@@ -5,7 +5,9 @@
 </a>
 <br>
 
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thomazdev2020)
