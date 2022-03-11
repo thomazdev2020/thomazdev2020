@@ -1,10 +1,7 @@
 ### Olâ sou Thomaz Santos 👋 DEV Front-End
-<h1 align="center"> Thomaz Dev</h1>
 
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-Oi 👋
+<img src="https://avatars.githubusercontent.com/u/81429672?s=400&u=e3420ee57f8d37e437d27df6ced3a2ed9e455653&v=4">
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thomazdev2020)
