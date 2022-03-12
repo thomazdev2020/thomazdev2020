@@ -19,9 +19,8 @@
 <div>
   
 <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">(https://www.instagram.com/thomazdev/) 
-  
+ <a href="https://www.youtube.com/channel/UC4GiydD2u-K5r8k0A7cB7LA" alt="github" target="_blank">
 <img src="https://img.shields.io/youtube/channel/subscribers/UC4GiydD2u-K5r8k0A7cB7LA?style=social"></a>
-<a href="https://github.com/tassiotfc" alt="github" target="_blank">
 <img src="https://img.shields.io/youtube/channel/views/UC4GiydD2u-K5r8k0A7cB7LA?style=social"></a>
  </div>
 
