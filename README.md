@@ -17,11 +17,6 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomazdev2020&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
 <br>
 <div>
-  
-<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">(https://www.instagram.com/thomazdev/) 
- <a href="https://www.youtube.com/channel/UC4GiydD2u-K5r8k0A7cB7LA" alt="github" target="_blank">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC4GiydD2u-K5r8k0A7cB7LA?style=social"></a>
-<img src="https://img.shields.io/youtube/channel/views/UC4GiydD2u-K5r8k0A7cB7LA?style=social"></a>
- </div>
+<a href="https://www.instagram.com/thomazdev/"><img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" width="40" height="40"></a>
 
 
