@@ -17,7 +17,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomazdev2020&amp;show_icons=true&amp;theme=tokyonight"/>
 &nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomazdev2020&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
-<br>
  <hr>
  <br>
 <div>
