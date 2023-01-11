@@ -1,4 +1,4 @@
-<h1 align="center">Olâ sou Thomaz Dev 👋 Desenvolvedor Front-End</h1>
+<h1 align="center">Olâ sou Thomaz Dev 👋 Desenvolvedor Front-End/Node JS</h1>
 
 <div>
 <h2>Ferramentas e Tecnologias em Apredizado</h2>
